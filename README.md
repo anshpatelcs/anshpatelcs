@@ -1,11 +1,17 @@
 ### Hi there 👋
 
+I'm Ansh Patel, a Computer Science student at the University of Minnesota with a passion for software engineering. As an aspiring developer, I'm always seeking out new challenges to build upon my skills, often through hackathons and personal projects. My expertise lies in Python, Java, Javascript, and React. If you're interested, feel free to take a look at some of my projects below.
+
+  - 📫 How to reach me: [Linkedin](https://linkedin.com/in/anshmpatel) Email: hi@anshpa.tel
+  - 😄 Pronouns: He / Him / His
+  - 🔭 I’m currently learning: React Native, OCaml, and C
+
 <!--
 **anshpatelcs/anshpatelcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
