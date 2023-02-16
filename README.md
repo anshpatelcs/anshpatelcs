@@ -2,7 +2,7 @@
 
 I'm Ansh Patel, a Computer Science student at the University of Minnesota with a passion for software engineering. As an aspiring developer, I'm always seeking out new challenges to build upon my skills, often through hackathons and personal projects. My expertise lies in Python, Java, Javascript, and React. If you're interested, feel free to take a look at some of my projects below.
 
-  - 📫 How to reach me: [Linkedin](https://linkedin.com/in/anshmpatel) Email: hi@anshpa.tel
+  - 📫 How to reach me: hi@anshpa.tel
   - 😄 Pronouns: He / Him / His
   - 🔭 I’m currently learning: React Native, OCaml, and C
 
