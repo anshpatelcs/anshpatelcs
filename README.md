@@ -5,6 +5,7 @@ I'm Ansh Patel, a Computer Science student at the University of Minnesota with a
   - 📫 How to reach me: hi@anshpa.tel
   - 😄 Pronouns: He / Him / His
   - 🔭 I’m currently learning: React Native, OCaml, and C
+  - 🌐 [https://anshpa.tel](url)
 
 <!--
 **anshpatelcs/anshpatelcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
